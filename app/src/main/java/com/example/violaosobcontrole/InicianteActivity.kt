@@ -70,7 +70,7 @@ class InicianteActivity : AppCompatActivity() {
             "Aprenda a fazer os primeiros acordes",
             R.drawable.seta,
             "Chega de falação! Tá na hora de você pegar esse violão e executar seus primeiros acordes. Nos diagramas abaixo, é como se você tivesse deixado seu violão em pé, então as linhas horizontais representam os trastes e as linhas verticais representam as cordas, sendo a sexta corda (E) a primeira linha da direita e a primeira corda (e) a primeira linha da esquerda. Os números nada mais são do que os dedos da mão esquerda que você deve apertar, e as letras em cima de cada diagrama são as cifras referentes a cada acorde. Os traços em negrito são as pestanas, aqueles acordes em que você coloca o dedo 1 ocupando todas as cordas de uma casa:",
-            "https://3.bp.blogspot.com/-TXFHb31F5qk/WlD6cR--K6I/AAAAAAAAC5U/jEzhQ6O6pBM_uO3TbgRKaEyHhWh47D2VQCLcBGAs/s1600/acordes%2Bmaiores%2B%2Be%2Bmenores.jpg",
+            "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_766,h_476/https://aulasdeviolaoonline.com/wp-content/uploads/2019/04/acordes-maiores-e-menores.jpg",
             "Dica: NÃO tente executar os acordes com pestana agora, comece com os que não tem, pois você já vai sentir uma dor ao apertar as cordas, já que seus dedos ainda não acostumaram, então começar com a pestana seria uma cilada. E muito cuidado para que seus dedos não esbarrem nas cordas vizinhas, senão seu som será abafado, uma boa sacada é tocar uma corda de cada vez e conferir se o som está saindo. De 20 a 30 minutos por dia, pratique os acordes recomendados até o som sair limpo e até seus dedos pararem de doer."
         )
         listaIniciante.add(iniciante5)

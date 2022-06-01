@@ -70,7 +70,7 @@ class AvancadoActivity : AppCompatActivity() {
             "Evolua seu tapping",
             R.drawable.seta,
             "O tapping nada mais é do que uma variação do ligado, ou técnica de notas ligadas. Consiste em utilizar uma ou as duas mãos para \"martelar\" (tap) notas na escala do instrumento, ligando-as, adquirindo assim efeito de grande velocidade. O guitarrista Eddie Van Halen foi o responsável por popularizar essa técnica. Comece praticando o primeiro exemplo abaixo:",
-            "https://blog.santoangelo.com.br/wp-content/uploads/2015/06/VTCLST-003.jpg",
+            "https://blob.contato.io/machine-user-images/img-49819-20170209190226.png",
             "Dica: Comece treinando o tapping devagar para coordenar o movimento das duas mãos e aumentar a velocidade com o tempo. Depois, tente aplicá-lo nos seus improvisos e nas músicas que você gosta."
         )
         listaAvancado.add(avancado5)
@@ -130,7 +130,7 @@ class AvancadoActivity : AppCompatActivity() {
             "Execute os harmônicos e aplique nas suas músicas",
             R.drawable.seta,
             "Para esses harmônicos, diferentes dos naturais, são feitos com a corda presa, sendo executados apenas com a mão direita. Para aplicá-lo, coloque a ponta do indicador na altura do traste, e depois utilize qualquer um dos outros dedos da mão direita (polegar, médio, anular ou mindinho) para vibrar a corda. Pode ser feito com palheta também.",
-            "http://www.michael.com.br/site/blog/wp-content/uploads/2016/09/viol%C3%A3oharmonico.jpg",
+            "https://violaoparainiciantes.com/wp-content/uploads/2017/10/HAMONICO-ARTIFICIAL-VIOLAO.jpg",
             "Dica: Você sempre obterá esses harmônicos a partir dos naturais, então se uma corda estiver solta, seus harmônicos estarão no 5º, 7º e 12º trastes, se pressionar a primeira corda, seus harmônicos estarão no 6º, 8º e 13º trastes, e assim por diante."
         )
         listaAvancado.add(avancado11)

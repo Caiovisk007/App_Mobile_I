@@ -71,7 +71,7 @@ class IntermediarioActivity : AppCompatActivity() {
             R.drawable.seta,
             "Está afim de dar aquela apimentada nos seus solos e colocar mais pegada nas suas frases? Aqui abaixo encontra-se uma lista das principais técnicas para você pesquisar e praticar no seu som. Pratique uma de cada vez e veja de quais você mais vai gostar, é a partir dessas técnicas que você consegue criar sua identidade nos seus solos e improvisos.",
             "https://catracalivre.com.br/wp-content/uploads/2013/12/violao.jpg",
-            "Hammer on - Pull off - Percussão com o polegar – Slide - Abafamento com a mão esquerda - Técnica de fingerstyle - Palm Mute - Bend."
+            "Hammer on \n Pull off \n Percussão com o polegar \n Slide \n Abafamento com a mão esquerda \n Técnica de fingerstyle \n Palm Mute \n Bend"
         )
         listaIntermediario.add(intermediario5)
 
